@@ -14,8 +14,8 @@ def encode_image_to_base64(image_path):
 
 def query_gemma3_vision(image_path, prompt=\
     "Evaluate the attached essay based on the following expectations: \
-    1. Talk about cultural practices of a particular country.\
-    2. Talk about the issues in the cultural practices.\
+    1. Explain safety monitoring in mining industries using sensor-based systems on mining trucks. \
+    2. Discuss the issues and limitations of sensor-based monitoring systems in mining environments. \
     3. Provide your own opinion on the matter.\
     Use the rubric below to give a score:\
     90-100% (A): Exceptional work; demonstrates mastery of the assignment's objectives, using excellent grammar.\
